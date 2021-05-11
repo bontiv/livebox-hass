@@ -1,0 +1,10 @@
+{
+    "domain": "livebox",
+    "name": "Livebox Orange",
+    "documentation": "https://github.com/bontiv/livebox-hass",
+    "version": "1.0",
+    "dependencies": [],
+    "codeowners": ["@bontiv"],
+    "requirements": ["sysbus"],
+    "config_flow": false
+  }
